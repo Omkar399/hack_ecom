@@ -6,7 +6,7 @@
   font-weight: 400;
   color-scheme: dark;
   color: #ffffff;
-  background-color: #0a0e27;
+  background-color: #2c1a0a;
   font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
@@ -20,7 +20,7 @@
 body {
   margin: 0;
   min-height: 100vh;
-  background: linear-gradient(135deg, #0a0e27 0%, #16213e 100%);
+  background: linear-gradient(135deg, #2c1a0a 0%, #3d2414 100%);
 }
 
 #root {
