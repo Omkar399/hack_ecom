@@ -1,4 +1,5 @@
 /* Reset and base styles */
+/* This file contains all the CSS for the application, including global styles, layout, product cards, and cart styles. */
 * {
   margin: 0;
   padding: 0;
